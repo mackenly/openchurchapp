@@ -1,5 +1,6 @@
 # openchurchapp
 Open Source React Native Church App
+Learn more at [Open Church App](https://www.tricitiesmediagroup.com/openchurchapp/)
 
 ## Language
 
@@ -12,7 +13,7 @@ Download the code and import it into [expo](https://expo.io/) to export or into 
 
 ## Usage
 
-The goal of this project is to make creating your church app as easy as possible. We understand that every church doesn't have the budget to hire a developer.
+The goal of this project is to make creating your church app as easy as possible. We understand that every church doesn't have the budget to hire a developer. Learn more here: [Open Church App](https://www.tricitiesmediagroup.com/openchurchapp/)
 
 ## Planned Features
 
