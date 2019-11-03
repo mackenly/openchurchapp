@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "ios": {
+      "supportsTablet": false
+    },
+    "name": "Open Church App",
+    "slug": "open-church-app",
+    "splash": {
+      "image": "assets/images/splash.png"
+    },
+    "android": {
+      "permissions": []
+    },
+    "privacy": "unlisted",
+    "version": "1.0.0",
+    "sdkVersion": "34.0.0",
+    "description": "Open Source React Native Church App",
+    "notification": {},
+    "icon": "assets/images/icon.png"
+  }
+}
