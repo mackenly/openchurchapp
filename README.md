@@ -22,6 +22,23 @@ We plan to add dynamic data, push notifications, RSS feeds, sermon integration, 
 
 Some features will be here for free in our Open Source project but some that require databases will be offered in a low cost hosted service.
 
+Open Source features will include:
+- Push Notifications (One Signal)
+- Analitic Integrations
+- RSS Feeds
+- Some 3rd Party Integrations
+- Most App Pages
+
+Hosted Service Features will include:
+- Media Hosting
+- Dashbaord Analitics
+- Developer Cusotmizations Services
+- Managment Dashbaord (online & app)
+- Hosted Dynamic Data
+- Online Giving
+- App Store Publishing
+- And More
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please see the [contribution guide](https://github.com/mackenly/openchurchapp/blob/master/CONTRIBUTE.md) first.
 
