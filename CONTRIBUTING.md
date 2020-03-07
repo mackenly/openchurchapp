@@ -22,7 +22,7 @@ In your learning efforts you should focus on these areas;
 
 ## How do I contribute?
   - Fork the repo using the fork button on the top right.
-  - Once you have forked the repo, you are free to make changes as you wish.
+  - Once you have forked the repo, you are free to make changes in your fork as you wish.
   - Once you have made your changes - Open a PR to this repository (more on how to do that [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)) that targets the `dev` branch.
   - Your PR will then be code reviewed, to provide some positive feedback on how to improve or in areas that can be changed to avoid code errors.
   - Your PR may then be approved, and merged in.
