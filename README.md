@@ -1,5 +1,5 @@
 # openchurchapp
-Open Source React Native Church App
+Open Source React Native Church App (Coming Soon)
 Learn more at [ChurchMobile.App](https://churchmobile.app)
 
 ## Language
