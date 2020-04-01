@@ -40,7 +40,7 @@ Hosted Service Features will include:
 - And More
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please see the [contribution guide](https://github.com/mackenly/openchurchapp/blob/master/CONTRIBUTE.md) first.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please see the [contribution guide](https://github.com/mackenly/openchurchapp/blob/master/CONTRIBUTING.md) first.
 
 Please follow the versioning calendar found under milestones. We're open to suggestions though.
 
