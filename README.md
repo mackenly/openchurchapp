@@ -20,7 +20,7 @@ The goal of this project is to make creating your church app as easy as possible
 
 We plan to add dynamic data, push notifications, RSS feeds, sermon integration, publishing/customization services, and more.
 
-Some features will be here for free in our Open Source project but some that require databases will be offered in a low cost hosted service.
+Some features will be here for free in our Open Source project, but some that require databases will be offered in a low cost hosted service. There will likely be a free version to help with some features, but of course, some things incur high server costs and can't be free. The goal isn't to create a SaaS service but to make the open church app accessible to users of all technical abilities.
 
 Open Source features will include:
 - Push Notifications (One Signal)
@@ -31,8 +31,8 @@ Open Source features will include:
 
 Hosted Service Features will include:
 - Media Hosting
-- Dashbaord Analitics
-- Developer Cusotmizations Services
+- Dashbaord Analytics
+- Developer Customization Services
 - Managment Dashbaord (online & app)
 - Hosted Dynamic Data
 - Online Giving
