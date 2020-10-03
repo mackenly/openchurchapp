@@ -45,4 +45,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please follow the versioning calendar found under milestones. We're open to suggestions though.
 
 ## License
-[GNU General Public License v3.0](https://github.com/mackenly/openchurchapp/blob/master/LICENSE)
+[Apache License 2.0](https://github.com/mackenly/openchurchapp/blob/master/LICENSE)
