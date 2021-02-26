@@ -2,6 +2,10 @@
 Open Source React Native Church App (Coming Soon)
 Learn more at [ChurchMobile.App](https://churchmobile.app)
 
+## Status
+
+This project is very much still in the early stages.
+
 ## Language
 
 This app has been developed using [React Native](https://facebook.github.io/react-native/).
@@ -20,7 +24,7 @@ The goal of this project is to make creating your church app as easy as possible
 
 We plan to add dynamic data, push notifications, RSS feeds, sermon integration, publishing/customization services, and more.
 
-Some features will be here for free in our Open Source project, but some that require databases will be offered in a low cost hosted service. There will likely be a free version to help with some features, but of course, some things incur high server costs and can't be free. The goal isn't to create a SaaS service but to make the open church app accessible to users of all technical abilities.
+Some features will be here for free in our Open Source project, but some that require databases will be offered in a low cost hosted service. There will likely be a free version to help with some features, but of course, some things incur high server costs and can't be free. The goal isn't to create a SaaS service but to make the open church app accessible to users of all technical abilities. An alternate and likely plan is to provide deep documentation and tools to help users configure their cloud services in firebase, aws, etc without the need for a hosted service.
 
 Open Source features will include:
 - Push Notifications (One Signal)
